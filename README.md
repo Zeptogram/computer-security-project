@@ -1,4 +1,4 @@
-# Computer Security Project - Bluekeep
+# Computer Security Project - BlueKeep
 > Computer Security Project for University Bicocca - Milan, Grade: 30L
 
 ## Introduction
