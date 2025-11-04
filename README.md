@@ -1,5 +1,7 @@
 # Computer Security Project - BlueKeep
 > Computer Security Project for University Bicocca - Milan, Grade: 30L
+> 
+[![Download Report PDF](https://img.shields.io/badge/Download%20Report-PDF-lime.svg?style=for-the-badge)](https://github.com/user-attachments/files/23343336/Approfondimento_Sicurezza_Informatica-Gargiulo.pdf)
 
 ## Introduction
 
